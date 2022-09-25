@@ -1,0 +1,1 @@
+It was really cool to experiment with the number of hidden layers in the neural networks, also the number of neurons. It was also good to use the relu activation function which worked out better than the sigmoid activation function. A great learning experience and its just so fascinating that neuralnetworks can achieve these sorts of outcomes.
